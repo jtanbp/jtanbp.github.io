@@ -1,0 +1,20 @@
+body { 
+       background-color: blue;
+       background-image: url(https://images5.alphacoders.com/109/1099191.jpg);
+       background-position: center-top;
+       background-position: repeat;
+}
+
+h1 {
+     background-color: white;
+     opacity: 0.8;
+     border: 2px solid hotpink;
+}
+
+.ReasonstoPlay {
+     background-color: powderblue;
+     border: 2px solid hotpink;
+     text-align: center;
+     opacity: 0.8;
+     font-weight: bold;
+}
